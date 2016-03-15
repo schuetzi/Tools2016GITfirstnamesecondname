@@ -16,6 +16,6 @@ public class DLNode {
 	}
 	public void thisIsANewMethod() {}
 	public void thisIsANewMethod() {
-		int a = 1;
+		int a = 0;
 	}
 }
