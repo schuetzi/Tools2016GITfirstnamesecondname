@@ -14,8 +14,8 @@ public class DLNode {
 		DLNode node = new DLNode();
 		this.val = val;
 	}
-
-
 	public void thisIsANewMethod() {}
-
+	public void thisIsANewMethod() {
+		int a = 1;
+	}
 }
