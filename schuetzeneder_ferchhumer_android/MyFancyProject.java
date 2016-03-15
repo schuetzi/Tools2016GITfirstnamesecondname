@@ -13,6 +13,7 @@ public class DLNode {
 	public DLNode(int val) {
 		DLNode node = new DLNode();
 		this.val = val;
+		val = 100;
 	}
 	public void thisIsANewMethod() {}
 	public void thisIsANewMethod() {
