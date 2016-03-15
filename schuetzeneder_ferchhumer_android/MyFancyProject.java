@@ -11,8 +11,10 @@ public class DLNode {
 	
 	/** to initialize a node */
 	public DLNode(int val) {
+		DLNode node = new DLNode();
 		this.val = val;
 	}
+
 
 	public void thisIsANewMethod() {}
 
