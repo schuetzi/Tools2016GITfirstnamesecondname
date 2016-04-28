@@ -1,6 +1,7 @@
 public class DLNode {
 	
-	/** Reference to the next element in the list, or null if it is the last */
+	/** Reference to the next element in the list, or null if it is the last
+	Fancy comment */
 	public DLNode next;
 	
 	/** Reference to the previous element in the list, or null if it is the first */
